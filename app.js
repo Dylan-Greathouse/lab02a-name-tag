@@ -42,3 +42,8 @@ fontBtn.addEventListener('click', ()=>{
     middleSection.style.fontFamily = fontDemo.value;
  
 });
+
+nameOutput.addEventListener('click', ()=>{
+    console.log(Math.random())
+    console.log('I am clicking')
+})
