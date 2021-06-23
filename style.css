@@ -1,5 +1,7 @@
 body {
-    background:cyan
+    background-image: url('https://images-na.ssl-images-amazon.com/images/I/81gHsN-YyXL._SL1500_.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 main {
