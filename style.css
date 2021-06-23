@@ -1,5 +1,13 @@
 
 
+main {
+   height: 280px;
+   width: 400px;
+   display: grid;
+   grid-template-rows: 2fr 2fr 1fr;
+   box-shadow: 10px 5px 5px gray;
+   border-radius: 25px;
+}
 
 h1 {
     font-size: 4rem;
@@ -37,12 +45,4 @@ h1, h2 {
 .bottom {
     background-color: red;
     border-radius: 0px 0px 25px 25px;
-}
-main {
-   height: 280px;
-   width: 400px;
-   display: grid;
-   grid-template-rows: 2fr 2fr 1fr;
-   box-shadow: 10px 5px 5px gray;
-   border-radius: 25px;
 }
